@@ -1,0 +1,9 @@
+filename = "C:\\BEnvironment\\TempFiles\\_rce_Step1_OMRTrainData.dat"
+f_reprize_end = "C:\\Users\\azatv\\ScanScore\\scanscore\\build\\Debug\\DebugImages\\MusicSymbolData_67 1.dat"
+out_path = 'C:\\Users\\azatv\\JupyterProjects\\RCE\\first_test\\Outside stave\\'
+f_msimbol_39_end = 'C:\\Users\\azatv\\ScanScore\\scanscore\\build\\Debug\\DebugImages\\MusicSymbolData_39 1.dat'
+f_8va15ma = 'C:\\BEnvironment\\TempFiles\\_rce_Step4_MusicSymbol_OutsideStavesSymbol_Octava8Va.dat'
+f_Accent = 'C:\\BEnvironment\\TempFiles\\_rce_Step4_MusicSymbol_OutsideStavesSymbol_Accent.dat'
+f_Pedal8va = 'C:\\BEnvironment\\TempFiles\\_rce_Step7_MusicSymbol_OutsideStavesSymbol_PedalComplex_PedalMSymbol_Pedal8va.dat'
+input_directory = "C:\\BEnvironment\\TempFiles"
+output_file_path = "C:\\Users\\azatv\\JupyterProjects\\RCE\\output_temp_analysis.txt"
