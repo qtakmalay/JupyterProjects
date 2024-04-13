@@ -4,3 +4,22 @@ Hands-on I/U6/resources/cifar-10-python.tar.gz
 Hands-on I/U6/resources/cifar-10-batches-py
 first_test
 vars.py
+
+
+*.pyc
+*.txt
+*.pt
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tar.gz
+*.log
+*.out
+*.err
+*.npy
+*.pth
+*.pkl
+*.h5
+*.zip
+*.wav
