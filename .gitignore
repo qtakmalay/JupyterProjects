@@ -4,8 +4,13 @@ Hands-on I/U6/resources/cifar-10-python.tar.gz
 Hands-on I/U6/resources/cifar-10-batches-py
 first_test
 vars.py
-
-
+ML Super/A5/dataset/*
+ML Super/A4/dataset/*
+Learning User-Generated Data/dataset/*
+ML and PC/MLPC24_speech_commands_raw_waveforms/*
+ML Super/A8/data/*
+п/results/*
+ML Not Super/A3/iris.data
 *.pyc
 *.txt
 *.pt
@@ -23,3 +28,10 @@ vars.py
 *.h5
 *.zip
 *.wav
+*.mp3
+*.mp4
+*.pdf
+*.docx
+*.doc
+*.gif
+*.data
