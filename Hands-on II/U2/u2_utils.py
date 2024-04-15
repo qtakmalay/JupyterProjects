@@ -156,7 +156,7 @@ def apply_pca(data: pd.DataFrame, n_components: Optional[int] = None, target_col
     if target_column is not None:
         target_data = data[target_column]
         data = data.drop(columns=target_column)
-    
+    print(target_data)
     if components is None:
         components = PCA(n_components=n_components).fit(data)
     projected_data = pd.DataFrame(components.transform(data), index=data.index)
