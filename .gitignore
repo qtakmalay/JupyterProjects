@@ -14,7 +14,7 @@ ML Not Super/A3/iris.data
 *.pyc
 *.txt
 *.pt
-*.csv
+#*.csv
 *.png
 *.jpg
 *.jpeg
