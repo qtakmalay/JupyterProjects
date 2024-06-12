@@ -14,7 +14,7 @@ ML Not Super/A3/iris.data
 *.pyc
 *.txt
 *.pt
-#*.csv
+*.csv
 *.png
 *.jpg
 *.jpeg
@@ -35,3 +35,10 @@ ML Not Super/A3/iris.data
 *.doc
 *.gif
 *.data
+*.keras
+*-checkpoint.ipynb
+Learning User-Generated Data/dataset_ex3/*
+Learning User-Generated Data/lfm-tiny-tunes/*
+*.json
+RCE/*
+п/*
