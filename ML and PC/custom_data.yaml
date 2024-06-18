@@ -1,0 +1,25 @@
+train: C:/Users/azatv/Jupyter/JupyterProjects/ML and PC/dataset/images/train
+val: C:/Users/azatv/Jupyter/JupyterProjects/ML and PC/dataset/images/val
+
+nc: 1  # number of classes
+names: ['Alarm',
+'an',
+'aus',
+'Brötchen',
+'Fernseher',
+'Haus',
+'Heizung',
+'kann',
+'Leitung',
+'Licht',
+'Lüftung',
+'nicht',
+'Ofen',
+'offen',
+'other',
+'Radio',
+'Schraube',
+'Spiegel',
+'Staubsauger',
+'warm',
+'wunderbar'] 
