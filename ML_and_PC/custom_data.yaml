@@ -1,0 +1,27 @@
+path: C:/Users/azatv/Jupyter/JupyterProjects/ML_and_PC/dataset/resized_images
+train: C:/Users/azatv/Jupyter/JupyterProjects/ML_and_PC/dataset/resized_images/train
+val: C:/Users/azatv/Jupyter/JupyterProjects/ML_and_PC/dataset/resized_images/val
+test: C:/Users/azatv/Jupyter/JupyterProjects/ML_and_PC/dataset/resized_images/test
+
+names: 
+  0: Alarm
+  1: an
+  2: aus
+  3: Brotchen
+  4: Fernseher
+  5: Haus
+  6: Heizung
+  7: kann
+  8: Leitung
+  9: Licht
+  10: Luftung
+  11: nicht
+  12: Ofen
+  13: offen
+  14: other
+  15: Radio
+  16: Schraube
+  17: Spiegel
+  18: Staubsauger
+  19: warm
+  20: wunderbar
